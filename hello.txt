@@ -1,2 +1,5 @@
 hello 
 file part 2
+
+I made changes now....
+Git is new and interesting.
