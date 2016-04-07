@@ -1,0 +1,5 @@
+You get to see typos which would have been difficult to find out for long pieces of code.
+We can see how the code has changed...new versions help understand the changes made and their effects.
+Manually saving helps decide the size of the commit-not too big or too small.
+Helps keep record of the whole project with multiple files.
+differences/version
