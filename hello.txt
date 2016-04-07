@@ -6,3 +6,6 @@ Git is new and interesting.
 
 
 Branching is good .....but u gotta remember what changes and where
+
+
+Help to determine the parent of each commit. Tells whether any commit is unreachable.
